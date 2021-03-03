@@ -16,6 +16,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <!--管理模块 -->
     <modules>
         <module>demo-cloud-eureka</module>
     </modules>
